@@ -33,7 +33,7 @@
 │   ├── Лабораторна_робота_3_IDEF0_Готель.docx
 │   └── Лабораторна_робота_3_IDEF0_Готель.pdf
 ├── screenshots/
-│   ├── 00_bpwin_error.png
+│   
 │   ├── 01_context_A-0.png
 │   ├── 02_decomposition_A0.png
 │   ├── 03_decomposition_A3.png
@@ -60,7 +60,7 @@
 ## Файли звіту
 
 - `docs/Лабораторна_робота_3_IDEF0_Готель.docx`
-- `docs/Лабораторна_робота_3_IDEF0_Готель.pdf`
+
 
 ---
 
